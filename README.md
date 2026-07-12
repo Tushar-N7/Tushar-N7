@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Hero System Banner -->
-<img src="./assets/banner.svg" width="100%" alt="N7 Systems Architecture Header" />
+<!-- Dynamically Generated Industrial Tech Banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0b0f19&text=TUSHAR%20N&fontColor=ffffff&fontSize=42&fontAlign=left&fontAlignX=10&fontAlignY=45&desc=Building%20Embedded%20Systems%20from%20PCB%20to%20Cloud&descSize=16&descColor=94a3b8&descAlignX=10&descAlignY=65" width="100%" alt="TN Header" />
 
 <br/><br/>
 
@@ -29,48 +29,66 @@ I enjoy building embedded systems that bridge hardware, firmware, and AI to solv
 <table width="100%" border="0" cellpadding="12" cellspacing="0">
 <tr>
 <td width="50%" valign="top">
-<img src="./assets/covers/gateway.png" width="100%" style="border-radius:6px; margin-bottom:8px;" alt="Hybrid Industrial Gateway Cover"/>
-<h3>Hybrid Industrial Gateway</h3>
-<p>Secure industrial gateway connecting PLCs, wireless nodes, and cloud services.</p>
-<a href="YOUR_GATEWAY_REPO">View Repository →</a>
+
+### Hybrid Industrial Gateway
+Secure industrial gateway connecting PLCs, wireless nodes, and cloud services.
+<br/>
+`ESP32` • `LoRa` • `RS-485`
+<br/><br/>
+<a href="https://github.com/Tushar-N7">View Repository →</a>
 </td>
 
 <td width="50%" valign="top">
-<img src="./assets/covers/safety.png" width="100%" style="border-radius:6px; margin-bottom:8px;" alt="Industrial Safety Monitor Cover"/>
-<h3>Industrial Safety Monitor</h3>
-<p>Real-time edge monitoring of environmental conditions and machine health metrics.</p>
-<a href="YOUR_SAFETY_REPO">View Repository →</a>
-</td>
-</tr>
 
-<tr>
-<td width="50%" valign="top">
-<img src="./assets/covers/women-safety.png" width="100%" style="border-radius:6px; margin-bottom:8px;" alt="AI Women Safety Cover"/>
-<h3>AI Women Safety</h3>
-<p>Computer vision system deploying localized tracking pipelines via OpenCV and TensorFlow.</p>
-<a href="YOUR_WOMEN_REPO">View Repository →</a>
-</td>
-
-<td width="50%" valign="top">
-<img src="./assets/covers/inventory.png" width="100%" style="border-radius:6px; margin-bottom:8px;" alt="Smart Inventory Cover"/>
-<h3>Smart Inventory</h3>
-<p>Smart inventory management using RFID, ESP32, and computer vision.</p>
-<a href="YOUR_INVENTORY_REPO">View Repository →</a>
+### Industrial Safety Monitor
+Real-time edge monitoring of environmental conditions and machine health metrics.
+<br/>
+`ESP32` • `Sensors` • `Edge Computing`
+<br/><br/>
+<a href="https://github.com/Tushar-N7">View Repository →</a>
 </td>
 </tr>
 
 <tr>
 <td width="50%" valign="top">
-<img src="./assets/covers/irrigation.png" width="100%" style="border-radius:6px; margin-bottom:8px;" alt="Smart Irrigation Cover"/>
-<h3>Smart Irrigation</h3>
-<p>IoT-based smart irrigation with automated sensing and pump control.</p>
-<a href="YOUR_IRRIGATION_REPO">View Repository →</a>
+
+### AI Women Safety
+Computer vision system deploying localized tracking pipelines via OpenCV and TensorFlow.
+<br/>
+`Python` • `OpenCV` • `TensorFlow`
+<br/><br/>
+<a href="https://github.com/Tushar-N7">View Repository →</a>
 </td>
 
 <td width="50%" valign="top">
-<img src="./assets/covers/portfolio.png" width="100%" style="border-radius:6px; margin-bottom:8px;" alt="Portfolio Website Cover"/>
-<h3>Engineering Portfolio</h3>
-<p>Personal website documenting hardware deep-dives and full system schematics.</p>
+
+### Smart Inventory
+Smart inventory management using RFID, ESP32, and computer vision.
+<br/>
+`ESP32` • `RFID` • `TinyML`
+<br/><br/>
+<a href="https://github.com/Tushar-N7">View Repository →</a>
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Smart Irrigation
+IoT-based smart irrigation with automated sensing and pump control.
+<br/>
+`ESP32` • `IoT` • `Automation`
+<br/><br/>
+<a href="https://github.com/Tushar-N7">View Repository →</a>
+</td>
+
+<td width="50%" valign="top">
+
+### Engineering Portfolio
+Personal website documenting hardware deep-dives and full system schematics.
+<br/>
+`Web` • `Hardware Docs` • `Schematics`
+<br/><br/>
 <a href="https://tushar-n7.github.io">Visit Portfolio →</a>
 </td>
 </tr>
