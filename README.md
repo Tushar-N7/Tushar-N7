@@ -28,7 +28,7 @@ SYSTEM STATUS
 ```
 
 Hello! I'm **Tushar**, an Electronics & Communication Engineering student passionate about designing complete engineering systems—from custom PCBs and embedded firmware to AI-powered industrial IoT solutions.
-
+ 
 My work focuses on:
 
 - 🔹 Embedded Systems
