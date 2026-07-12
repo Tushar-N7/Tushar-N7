@@ -592,3 +592,88 @@ I believe the best way to learn is by building, experimenting, and continuously 
 </div>
 
 ---
+
+---
+
+# ⚡ Live Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tushar-N7&theme=tokyonight" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tushar-N7&theme=tokyonight" width="49%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tushar-N7&theme=tokyonight" width="49%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tushar-N7&theme=tokyonight" width="49%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tushar-N7&theme=tokyonight&utcOffset=5.5" width="49%"/>
+
+</div>
+
+---
+
+# 🌙 Midnight Engineer
+
+```text
+        🌙 AFTER HOURS BUILD LOG
+
+22:30  ▓▓▓▓▓▓▓▓▓▓  Reviewing Schematics
+23:45  ▓▓▓▓▓▓▓▓▓▓  PCB Routing
+00:30  ▓▓▓▓▓▓▓▓▓▓  Firmware Development
+01:40  ▓▓▓▓▓▓▓▓▓▓  Debugging
+02:15  ▓▓▓▓▓▓▓▓▓▓  Coffee Break ☕
+02:45  ▓▓▓▓▓▓▓▓▓▓  AI Model Testing
+03:20  ▓▓▓▓▓▓▓▓▓▓  "It Finally Works!"
+```
+
+> *"Some of my best ideas begin after midnight, when distractions disappear and curiosity takes over."*
+
+---
+
+# 📂 Explore My Work
+
+| Category | Projects |
+|-----------|----------|
+| ⚡ Embedded Systems | ESP32 • STM32 • FreeRTOS |
+| 🏭 Industrial IoT | Wenlock • Industrial Gateway |
+| 🤖 Artificial Intelligence | Computer Vision • Edge AI |
+| 🔌 PCB Design | KiCad • Custom Hardware |
+| 📡 Communication | LoRa • RS-485 • MQTT |
+| 🌐 Web & Dashboards | Flask • Firebase • GitHub Pages |
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Tushar-N7&label=Profile%20Views&color=2563eb&style=for-the-badge"/>
+
+</div>
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Tushar-N7/Tushar-N7/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider giving a ⭐ to the repositories you find interesting.
+
+</div>
