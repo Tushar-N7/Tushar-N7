@@ -5,7 +5,12 @@
 
 <br/><br/>
 
-**Electronics & Communication Engineering** • Building Intelligent Systems from PCB to Cloud.
+**Electronics & Communication Engineering Student**
+Building Intelligent Systems from PCB to Cloud.
+
+<br/>
+
+I enjoy building embedded systems that bridge hardware, firmware, and AI to solve real-world engineering problems.
 
 <br/>
 
@@ -49,7 +54,7 @@
 <td width="50%" valign="top">
 <img src="./assets/covers/inventory.png" width="100%" style="border-radius:6px; margin-bottom:8px;" alt="Smart Inventory Cover"/>
 <h3>Smart Inventory</h3>
-<p>Asset logistics optimization engine powered by embedded RFID tracking and AI.</p>
+<p>Smart inventory management using RFID, ESP32, and computer vision.</p>
 <a href="YOUR_INVENTORY_REPO">View Repository →</a>
 </td>
 </tr>
@@ -58,22 +63,22 @@
 <td width="50%" valign="top">
 <img src="./assets/covers/irrigation.png" width="100%" style="border-radius:6px; margin-bottom:8px;" alt="Smart Irrigation Cover"/>
 <h3>Smart Irrigation</h3>
-<p>Automated closed-loop agricultural optimization and environmental sensor framework.</p>
+<p>IoT-based smart irrigation with automated sensing and pump control.</p>
 <a href="YOUR_IRRIGATION_REPO">View Repository →</a>
 </td>
 
 <td width="50%" valign="top">
 <img src="./assets/covers/portfolio.png" width="100%" style="border-radius:6px; margin-bottom:8px;" alt="Portfolio Website Cover"/>
-<h3>Portfolio Hub</h3>
-<p>Interactive platform documenting hardware deep-dives and deep system schematics.</p>
-<a href="https://tushar-n7.github.io">View System →</a>
+<h3>Engineering Portfolio</h3>
+<p>Personal website documenting hardware deep-dives and full system schematics.</p>
+<a href="https://tushar-n7.github.io">Visit Portfolio →</a>
 </td>
 </tr>
 </table>
 
 ---
 
-## Activity Metrics
+## GitHub Activity
 
 <div align="center">
 
@@ -88,7 +93,7 @@
 
 ---
 
-## Telemetry Links
+## Connect
 
 <p align="center">
   <a href="https://github.com/Tushar-N7">GitHub</a>
