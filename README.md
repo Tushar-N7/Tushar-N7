@@ -1,17 +1,13 @@
 <div align="center">
 
-<!-- High-Quality Online Engineering Banner -->
-<img src="https://images.stockcake.com/public/7/4/9/749a4435-44ed-4cbc-899b-df0ee0a20cf6_large/circuit-board-blueprint-stockcake.jpg" width="100%" style="max-height: 240px; object-fit: cover;" alt="Tushar N Engineering Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e40af,100:0f172a&text=Tushar%20N&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Embedded%20Systems%20%7C%20Edge%20AI%20%7C%20Industrial%20IoT&descAlignY=58&animation=fadeIn" width="100%" alt="Tushar N Header" />
 
-<br><br>
-
-# Tushar N
+<br/>
 
 ### Embedded Systems Engineer
-
 Building intelligent systems from **PCB to Cloud**.
 
-<br>
+<br/>
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,linux,vscode" alt="Toolbox Skills" />
@@ -28,50 +24,25 @@ Building intelligent systems from **PCB to Cloud**.
 
 ---
 
-## Featured Projects
+## 🚀 Key Engineering Implementations
 
-<p align="center">
-The projects below represent key milestones across hardware development, systems firmware design, and industrial IoT prototyping.
-</p>
+Instead of missing images, here is a structured summary of my core technical portfolio architectures:
 
-<br>
+### 1. Hybrid Industrial Control Gateway
+* **Core Framework:** Built a dual-ESP32 architecture segmenting real-time deterministic data ingestion from cloud communication lines.
+* **Protocols & Execution:** Implemented FreeRTOS task handling across Modbus RTU (RS-485) fields with long-range failover protocols driven by LoRa networks.
+* **Security Edge:** Integrates local processing for anomalies using light data classification algorithms directly at the gateway layer.
 
-<table width="100%">
-<tr>
+### 2. Wenlock Hospital Temperature Logger
+* **Biomedical Proof of Concept:** Designed a precision tracking system deployed for critical hospital cold storage and blood bank monitoring.
+* **Hardware Integration:** Integrated high-accuracy RTD PT100 temperature sensors managed via a MAX31865 SPI interface, complete with redundant offline flash logging fallbacks.
 
-<td width="50%" align="center" valign="top">
-<img src="https://premioinc.com/blogs/blog/what-is-an-iot-gateway" width="100%" style="max-height:160px; object-fit:cover;" alt="Hybrid Industrial Control Gateway"/>
-<h3>Hybrid Industrial Control Gateway</h3>
-<p>Industrial communication platform built around ESP32, LoRa, and RS-485 with AI-assisted monitoring.</p>
-</td>
-
-<td width="50%" align="center" valign="top">
-<img src="https://static.vecteezy.com/system/resources/thumbnails/042/407/768/small/neon-circuit-board-design-on-dark-background-for-technology-concept-vector.jpg" width="100%" style="max-height:160px; object-fit:cover;" alt="Wenlock Temperature Monitoring"/>
-<h3>Wenlock Temperature Monitoring</h3>
-<p>IoT monitoring system designed for hospital blood and plasma cold storage applications.</p>
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" align="center" valign="top">
-<img src="https://static.vecteezy.com/system/resources/thumbnails/042/407/768/small/neon-circuit-board-design-on-dark-background-for-technology-concept-vector.jpg" width="100%" style="max-height:160px; object-fit:cover;" alt="AI Powered Women Safety"/>
-<h3>AI Powered Women Safety</h3>
-<p>Computer vision based intelligent tracking using localized OpenCV and TensorFlow pipelines.</p>
-</td>
-
-<td width="50%" align="center" valign="top">
-<img src="https://images.stockcake.com/public/7/4/9/749a4435-44ed-4cbc-899b-df0ee0a20cf6_large/circuit-board-blueprint-stockcake.jpg" width="100%" style="max-height:160px; object-fit:cover;" alt="Smart Inventory"/>
-<h3>Smart Inventory</h3>
-<p>RFID and automated AI data logging integrated inventory tracking environment.</p>
-</td>
-
-</tr>
-</table>
+### 3. Edge-Vision System & Core Prototyping
+* **Edge Intelligence:** Implemented embedded Python pipelines leveraging localized OpenCV and downscaled TensorFlow structures to achieve low-latency video object detection and public safety data monitoring without reliance on remote processing.
 
 ---
 
-## GitHub Activity
+## 📊 GitHub System Activity
 
 <div align="center">
 
@@ -80,7 +51,7 @@ The projects below represent key milestones across hardware development, systems
 
 <br/><br/>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar-N7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar-N7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
 
