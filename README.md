@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Custom Banner -->
-<img src="assets/banner.png" width="100%" alt="Tushar N Engineering Banner" />
+<img src="https://raw.githubusercontent.com/Tushar-N7/Tushar-N7/main/assets/banner.png" width="100%" alt="Tushar N Engineering Banner" />
 
 <br><br>
 
@@ -41,7 +41,7 @@ The projects below represent the work I'm most proud of. Each one reflects my in
 
 <td width="50%" align="center" valign="top">
 <a href="YOUR_GATEWAY_REPO">
-<img src="assets/gateway.png" width="100%" style="max-height:160px; object-fit:cover;" alt="Hybrid Industrial Control Gateway"/>
+<img src="https://raw.githubusercontent.com/Tushar-N7/Tushar-N7/main/assets/gateway.png" width="100%" style="max-height:160px; object-fit:cover;" alt="Hybrid Industrial Control Gateway"/>
 <h3>Hybrid Industrial Control Gateway</h3>
 </a>
 <p>Industrial communication platform built around ESP32, LoRa, and RS-485 with AI-assisted monitoring.</p>
@@ -49,7 +49,7 @@ The projects below represent the work I'm most proud of. Each one reflects my in
 
 <td width="50%" align="center" valign="top">
 <a href="YOUR_WENLOCK_REPO">
-<img src="assets/wenlock.png" width="100%" style="max-height:160px; object-fit:cover;" alt="Wenlock Temperature Monitoring"/>
+<img src="https://raw.githubusercontent.com/Tushar-N7/Tushar-N7/main/assets/wenlock.png" width="100%" style="max-height:160px; object-fit:cover;" alt="Wenlock Temperature Monitoring"/>
 <h3>Wenlock Temperature Monitoring</h3>
 </a>
 <p>IoT monitoring system designed for hospital blood and plasma cold storage applications.</p>
@@ -60,7 +60,7 @@ The projects below represent the work I'm most proud of. Each one reflects my in
 
 <td width="50%" align="center" valign="top">
 <a href="YOUR_WOMEN_REPO">
-<img src="assets/women-safety.png" width="100%" style="max-height:160px; object-fit:cover;" alt="AI Powered Women Safety"/>
+<img src="https://raw.githubusercontent.com/Tushar-N7/Tushar-N7/main/assets/women-safety.png" width="100%" style="max-height:160px; object-fit:cover;" alt="AI Powered Women Safety"/>
 <h3>AI Powered Women Safety</h3>
 </a>
 <p>Computer vision based intelligent tracking using localized OpenCV and TensorFlow pipelines.</p>
@@ -68,7 +68,7 @@ The projects below represent the work I'm most proud of. Each one reflects my in
 
 <td width="50%" align="center" valign="top">
 <a href="YOUR_INVENTORY_REPO">
-<img src="assets/inventory.png" width="100%" style="max-height:160px; object-fit:cover;" alt="Smart Inventory"/>
+<img src="https://raw.githubusercontent.com/Tushar-N7/Tushar-N7/main/assets/inventory.png" width="100%" style="max-height:160px; object-fit:cover;" alt="Smart Inventory"/>
 <h3>Smart Inventory</h3>
 </a>
 <p>RFID and automated AI data logging integrated inventory tracking environment.</p>
@@ -79,7 +79,7 @@ The projects below represent the work I'm most proud of. Each one reflects my in
 
 <td width="50%" align="center" valign="top">
 <a href="YOUR_IRRIGATION_REPO">
-<img src="assets/irrigation.png" width="100%" style="max-height:160px; object-fit:cover;" alt="Smart Irrigation"/>
+<img src="https://raw.githubusercontent.com/Tushar-N7/Tushar-N7/main/assets/irrigation.png" width="100%" style="max-height:160px; object-fit:cover;" alt="Smart Irrigation"/>
 <h3>Smart Irrigation</h3>
 </a>
 <p>ESP32 based closed-loop automated irrigation system with remote dashboard monitoring.</p>
@@ -87,7 +87,7 @@ The projects below represent the work I'm most proud of. Each one reflects my in
 
 <td width="50%" align="center" valign="top">
 <a href="https://tushar-n7.github.io">
-<img src="assets/portfolio.png" width="100%" style="max-height:160px; object-fit:cover;" alt="Portfolio Website"/>
+<img src="https://raw.githubusercontent.com/Tushar-N7/Tushar-N7/main/assets/portfolio.png" width="100%" style="max-height:160px; object-fit:cover;" alt="Portfolio Website"/>
 <h3>Portfolio Website</h3>
 </a>
 <p>My interactive engineering portal showcasing deep-dives, hardware updates, and research.</p>
