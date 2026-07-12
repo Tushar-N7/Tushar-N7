@@ -1,16 +1,11 @@
 <div align="center">
 
 <!-- Dynamically Generated Industrial Tech Banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0b0f19&text=TUSHAR%20N&fontColor=ffffff&fontSize=42&fontAlign=left&fontAlignX=10&fontAlignY=45&desc=Building%20Embedded%20Systems%20from%20PCB%20to%20Cloud&descSize=16&descColor=94a3b8&descAlignX=10&descAlignY=65" width="100%" alt="TN Header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0b0f19&text=TUSHAR%20N&fontColor=ffffff&fontSize=42&fontAlign=left&fontAlignX=10&fontAlignY=45&desc=Building%20embedded%20systems%20across%20hardware,%20firmware,%20and%20AI&descSize=16&descColor=94a3b8&descAlignX=10&descAlignY=65" width="100%" alt="TN Header" />
 
 <br/><br/>
 
 **Electronics & Communication Engineering Student**
-Building Intelligent Systems from PCB to Cloud.
-
-<br/>
-
-I enjoy building embedded systems that bridge hardware, firmware, and AI to solve real-world engineering problems.
 
 <br/>
 
@@ -19,6 +14,15 @@ I enjoy building embedded systems that bridge hardware, firmware, and AI to solv
 </p>
 
 </div>
+
+---
+
+## Current Focus
+
+- **Industrial IoT & Embedded Systems:** Architecting secure, multi-protocol communication networks.
+- **Edge AI:** Deploying optimized, low-latency computer vision pipelines on edge hardware.
+- **Custom PCB Design:** Developing reliable hardware layouts from schematic capture to production routing.
+- **Firmware Development:** Writing clean, modular implementations for ESP32 and STM32 platforms.
 
 ---
 
@@ -35,21 +39,9 @@ Secure industrial gateway connecting PLCs, wireless nodes, and cloud services.
 <br/>
 `ESP32` • `LoRa` • `RS-485`
 <br/><br/>
-<a href="https://github.com/Tushar-N7">View Repository →</a>
+<a href="https://github.com/Tushar-N7/Hybrid-Industrial-Control-Gateway">View Repository →</a>
 </td>
 
-<td width="50%" valign="top">
-
-### Industrial Safety Monitor
-Real-time edge monitoring of environmental conditions and machine health metrics.
-<br/>
-`ESP32` • `Sensors` • `Edge Computing`
-<br/><br/>
-<a href="https://github.com/Tushar-N7">View Repository →</a>
-</td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### AI Women Safety
@@ -57,7 +49,19 @@ Computer vision system deploying localized tracking pipelines via OpenCV and Ten
 <br/>
 `Python` • `OpenCV` • `TensorFlow`
 <br/><br/>
-<a href="https://github.com/Tushar-N7">View Repository →</a>
+<a href="https://github.com/Tushar-N7/AI-Women-Safety">View Repository →</a>
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Industrial Safety Monitor
+Real-time edge monitoring of environmental conditions and machine health metrics.
+<br/>
+`ESP32` • `Sensors` • `Edge Computing`
+<br/><br/>
+<a href="https://github.com/Tushar-N7/Industrial-Safety-Monitor">View Repository →</a>
 </td>
 
 <td width="50%" valign="top">
@@ -67,7 +71,7 @@ Smart inventory management using RFID, ESP32, and computer vision.
 <br/>
 `ESP32` • `RFID` • `TinyML`
 <br/><br/>
-<a href="https://github.com/Tushar-N7">View Repository →</a>
+<a href="https://github.com/Tushar-N7/Smart-Inventory">View Repository →</a>
 </td>
 </tr>
 
@@ -79,7 +83,7 @@ IoT-based smart irrigation with automated sensing and pump control.
 <br/>
 `ESP32` • `IoT` • `Automation`
 <br/><br/>
-<a href="https://github.com/Tushar-N7">View Repository →</a>
+<a href="https://github.com/Tushar-N7/Smart-Irrigation">View Repository →</a>
 </td>
 
 <td width="50%" valign="top">
