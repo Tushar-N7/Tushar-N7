@@ -492,3 +492,103 @@ A modern portfolio website showcasing my projects, experience and technical jour
 </table>
 
 ---
+
+---
+
+# 🌙 Engineering Journey
+
+I enjoy building complete engineering solutions—from designing custom PCBs and writing firmware to deploying AI-powered applications and cloud dashboards.
+
+My goal is to bridge the gap between **electronics, embedded software, and artificial intelligence**, creating systems that are reliable, efficient, and built for real-world applications.
+
+I believe the best way to learn is by building, experimenting, and continuously improving every project.
+
+---
+
+# 🎯 Current Focus
+
+```text
+⚡ Hybrid Industrial Control Gateway
+
+🏭 Industrial IoT
+
+🤖 Embedded AI
+
+📡 LoRa Communication
+
+⚙️ FreeRTOS
+
+🔧 STM32 Development
+
+🔌 PCB Design
+
+🚗 Automotive Embedded Systems
+```
+
+---
+
+# 🏆 Engineering Highlights
+
+- 🏥 Developed an IoT Temperature Monitoring System deployed as a Proof of Concept at Wenlock Hospital
+- ⚡ Designed and developed a Hybrid Industrial Control Gateway
+- 🤖 Built multiple AI-powered Computer Vision applications
+- 🌱 Developed several ESP32-based IoT systems
+- 💼 Embedded Systems Internship (Industrial Communication & PCB Testing)
+- 🥉 3rd Place - Robo Soccer Competition
+- 🏆 Participated in Smart India Hackathon
+- 🏆 Hidden Leaf Hackathon
+- 🏆 Skill Sangam Hackathon
+- 🏆 Startup Makeathon
+
+---
+
+# 📚 Currently Learning
+
+- STM32 Advanced Development
+- Embedded Linux
+- CAN Bus
+- Modbus RTU
+- TinyML
+- Device Drivers
+- Edge AI
+- Automotive Embedded Systems
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Tushar-N7">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://tushar-n7.github.io">
+<img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💭 Engineering Philosophy
+
+> *"Great engineering is not just about building things that work—it's about designing systems that continue to work, evolve, and solve real-world problems."*
+
+<br>
+
+⭐ **If you like my work, feel free to explore my repositories and connect with me!**
+
+</div>
+
+---
