@@ -81,3 +81,122 @@ Most of my ideas begin **after midnight**, where curiosity turns into prototypes
 </div>
 
 ---
+
+# 🛠️ Engineering Toolbox
+
+<div align="center">
+
+## Embedded Systems
+
+<img src="https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi,linux,git,vscode&theme=dark" />
+
+</div>
+
+---
+
+<div align="center">
+
+## Programming
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,bash&theme=dark" />
+
+</div>
+
+---
+
+<div align="center">
+
+## AI & Computer Vision
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,pytorch&theme=dark" />
+
+</div>
+
+---
+
+<div align="center">
+
+## Cloud & Backend
+
+<img src="https://skillicons.dev/icons?i=firebase,flask,mysql,github&theme=dark" />
+
+</div>
+
+---
+
+<div align="center">
+
+## Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma&theme=dark" />
+
+</div>
+
+---
+
+# 🔌 Hardware Platforms
+
+<div align="center">
+
+| Microcontrollers | Communication | PCB | Sensors |
+|-----------------|---------------|-----|----------|
+| ESP32 | LoRa | KiCad | PT100 |
+| STM32 | RS-485 | Custom PCB | DHT11 |
+| Arduino | Wi-Fi | Schematic Design | RFID |
+| CH32V003 | MQTT | Hardware Debugging | HX711 |
+| Raspberry Pi | UART / SPI / I2C | Prototyping | OLED |
+
+</div>
+
+---
+
+# ⚙️ What I Enjoy Building
+
+```text
+Industrial IoT Systems
+██████████████████████████ 100%
+
+Embedded Firmware
+████████████████████████░░ 95%
+
+PCB Design
+███████████████████████░░░ 90%
+
+AI Integration
+████████████████████░░░░░░ 85%
+
+Computer Vision
+███████████████████░░░░░░░ 80%
+
+Cloud Dashboards
+█████████████████░░░░░░░░░ 75%
+```
+
+---
+
+# 🌙 Current Learning Journey
+
+```text
+✔ Advanced STM32
+✔ FreeRTOS
+✔ Embedded Linux
+✔ CAN Bus
+✔ Modbus RTU
+✔ LoRa Networking
+✔ Edge AI
+✔ Secure IoT Systems
+```
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Publish more embedded projects
+- 📄 Research publication
+- ⚡ Develop production-ready firmware
+- 🏭 Build Industrial IoT platforms
+- 🤖 Deploy AI on edge devices
+- 🔧 Learn Automotive Communication Protocols
+- 💼 Prepare for Embedded Systems & Automotive Engineering roles
+
+---
