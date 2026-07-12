@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Custom Banner -->
-<img src="assets/banner.png" width="100%" alt="Tushar N Engineering Banner" />
+<!-- High-Quality Online Engineering Banner -->
+<img src="https://images.stockcake.com/public/7/4/9/749a4435-44ed-4cbc-899b-df0ee0a20cf6_large/circuit-board-blueprint-stockcake.jpg" width="100%" style="max-height: 240px; object-fit: cover;" alt="Tushar N Engineering Banner" />
 
 <br><br>
 
@@ -31,7 +31,7 @@ Building intelligent systems from **PCB to Cloud**.
 ## Featured Projects
 
 <p align="center">
-The projects below represent the work I'm most proud of. Each one reflects my interest in building complete engineering solutions—from hardware and firmware to AI and cloud integration.
+The projects below represent key milestones across hardware development, systems firmware design, and industrial IoT prototyping.
 </p>
 
 <br>
@@ -40,18 +40,14 @@ The projects below represent the work I'm most proud of. Each one reflects my in
 <tr>
 
 <td width="50%" align="center" valign="top">
-<a href="YOUR_GATEWAY_REPO">
-<img src="assets/gateway.png" width="100%" style="max-height:160px; object-fit:cover;" alt="Hybrid Industrial Control Gateway"/>
+<img src="https://premioinc.com/blogs/blog/what-is-an-iot-gateway" width="100%" style="max-height:160px; object-fit:cover;" alt="Hybrid Industrial Control Gateway"/>
 <h3>Hybrid Industrial Control Gateway</h3>
-</a>
 <p>Industrial communication platform built around ESP32, LoRa, and RS-485 with AI-assisted monitoring.</p>
 </td>
 
 <td width="50%" align="center" valign="top">
-<a href="YOUR_WENLOCK_REPO">
-<img src="assets/wenlock.png" width="100%" style="max-height:160px; object-fit:cover;" alt="Wenlock Temperature Monitoring"/>
+<img src="https://static.vecteezy.com/system/resources/thumbnails/042/407/768/small/neon-circuit-board-design-on-dark-background-for-technology-concept-vector.jpg" width="100%" style="max-height:160px; object-fit:cover;" alt="Wenlock Temperature Monitoring"/>
 <h3>Wenlock Temperature Monitoring</h3>
-</a>
 <p>IoT monitoring system designed for hospital blood and plasma cold storage applications.</p>
 </td>
 
@@ -59,38 +55,15 @@ The projects below represent the work I'm most proud of. Each one reflects my in
 <tr>
 
 <td width="50%" align="center" valign="top">
-<a href="YOUR_WOMEN_REPO">
-<img src="assets/women-safety.png" width="100%" style="max-height:160px; object-fit:cover;" alt="AI Powered Women Safety"/>
+<img src="https://static.vecteezy.com/system/resources/thumbnails/042/407/768/small/neon-circuit-board-design-on-dark-background-for-technology-concept-vector.jpg" width="100%" style="max-height:160px; object-fit:cover;" alt="AI Powered Women Safety"/>
 <h3>AI Powered Women Safety</h3>
-</a>
 <p>Computer vision based intelligent tracking using localized OpenCV and TensorFlow pipelines.</p>
 </td>
 
 <td width="50%" align="center" valign="top">
-<a href="YOUR_INVENTORY_REPO">
-<img src="assets/inventory.png" width="100%" style="max-height:160px; object-fit:cover;" alt="Smart Inventory"/>
+<img src="https://images.stockcake.com/public/7/4/9/749a4435-44ed-4cbc-899b-df0ee0a20cf6_large/circuit-board-blueprint-stockcake.jpg" width="100%" style="max-height:160px; object-fit:cover;" alt="Smart Inventory"/>
 <h3>Smart Inventory</h3>
-</a>
 <p>RFID and automated AI data logging integrated inventory tracking environment.</p>
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" align="center" valign="top">
-<a href="YOUR_IRRIGATION_REPO">
-<img src="assets/irrigation.png" width="100%" style="max-height:160px; object-fit:cover;" alt="Smart Irrigation"/>
-<h3>Smart Irrigation</h3>
-</a>
-<p>ESP32 based closed-loop automated irrigation system with remote dashboard monitoring.</p>
-</td>
-
-<td width="50%" align="center" valign="top">
-<a href="https://tushar-n7.github.io">
-<img src="assets/portfolio.png" width="100%" style="max-height:160px; object-fit:cover;" alt="Portfolio Website"/>
-<h3>Portfolio Website</h3>
-</a>
-<p>My interactive engineering portal showcasing deep-dives, hardware updates, and research.</p>
 </td>
 
 </tr>
