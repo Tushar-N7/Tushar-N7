@@ -200,3 +200,66 @@ Cloud Dashboards
 - 💼 Prepare for Embedded Systems & Automotive Engineering roles
 
 ---
+
+# 📊 GitHub Dashboard
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tushar-N7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Tushar-N7&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar-N7&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tushar-N7&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Tushar-N7&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# ⚡ Engineering Activity
+
+```text
+Firmware Development      ████████████████████
+
+Embedded Systems          ████████████████████
+
+PCB Design                ██████████████████
+
+AI Development            ████████████████
+
+Industrial IoT            █████████████████
+
+Research                  ███████████████
+```
+
+---
+
+# 💻 Open Source Philosophy
+
+> **"Good engineering isn't just about making something work—it's about making it understandable, maintainable, and useful to others."**
+
