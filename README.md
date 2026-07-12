@@ -263,3 +263,232 @@ Research                  ███████████████
 
 > **"Good engineering isn't just about making something work—it's about making it understandable, maintainable, and useful to others."**
 
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🏭 Hybrid Industrial Control Gateway
+
+AI-Driven Zero-Trust Industrial Gateway for secure industrial communication using ESP32.
+
+**Highlights**
+- 🔹 RS-485 & Modbus Communication
+- 🔹 LoRa Wireless Mode
+- 🔹 FreeRTOS
+- 🔹 Edge AI Integration
+- 🔹 Real-Time Monitoring
+
+**Tech Stack**
+
+`ESP32` `FreeRTOS` `LoRa` `RS-485` `MQTT` `Flask`
+
+<p align="center">
+<a href="YOUR_REPO_LINK">
+<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+
+</td>
+
+<td width="50%">
+
+<img src="assets/gateway.png" width="100%">
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+
+<td width="50%">
+
+<img src="assets/wenlock.png" width="100%">
+
+</td>
+
+<td width="50%">
+
+### 🏥 Wenlock Hospital Temperature Logger
+
+IoT-based monitoring system developed for hospital blood & plasma refrigerators.
+
+**Highlights**
+
+- 🌡 PT100 Temperature Sensor
+- 💾 Offline Data Logging
+- 📶 Web Dashboard
+- 🔋 Battery Backup
+- 📈 Historical Data
+
+**Tech Stack**
+
+`ESP32` `PT100` `MAX31865` `OLED`
+
+<p align="center">
+<a href="YOUR_REPO_LINK">
+<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🤖 AI Powered Women Safety System
+
+Computer Vision based monitoring system using AI to improve public safety.
+
+**Highlights**
+
+- 👤 Face Detection
+- 🤖 Gender Classification
+- 📧 Intelligent Alerts
+- 📷 Real-Time Camera Processing
+
+**Tech Stack**
+
+`Python` `OpenCV` `TensorFlow`
+
+<p align="center">
+<a href="YOUR_REPO_LINK">
+<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+
+</td>
+
+<td width="50%">
+
+<img src="assets/women-safety.png" width="100%">
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+
+<td width="50%">
+
+<img src="assets/inventory.png" width="100%">
+
+</td>
+
+<td width="50%">
+
+### 📦 Smart Inventory Management
+
+Hackathon project integrating RFID, ESP32 and AI for inventory tracking.
+
+**Highlights**
+
+- 📡 RFID
+- 📦 Inventory Tracking
+- 🤖 AI Detection
+- 🌐 Dashboard
+
+**Tech Stack**
+
+`ESP32` `RFID` `Python`
+
+<p align="center">
+<a href="YOUR_REPO_LINK">
+<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🌱 Smart Irrigation System
+
+Automated irrigation platform with remote monitoring and intelligent watering.
+
+**Highlights**
+
+- 🌱 Soil Moisture Monitoring
+- 💧 Automatic Irrigation
+- 🌡 Temperature Monitoring
+- 📱 Remote Dashboard
+
+**Tech Stack**
+
+`ESP32` `IoT`
+
+<p align="center">
+<a href="YOUR_REPO_LINK">
+<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+
+</td>
+
+<td width="50%">
+
+<img src="assets/irrigation.png" width="100%">
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+
+<td width="50%">
+
+<img src="assets/portfolio.png" width="100%">
+
+</td>
+
+<td width="50%">
+
+### 🌐 Personal Portfolio
+
+A modern portfolio website showcasing my projects, experience and technical journey.
+
+<p align="center">
+
+<a href="https://tushar-n7.github.io">
+<img src="https://img.shields.io/badge/Visit_Portfolio-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
+
+</p>
+
+</td>
+
+</tr>
+</table>
+
+---
